@@ -1,5 +1,6 @@
 services:
   jupyterlab:
+    platform: linux/amd64
     container_name: jupyterlab
     hostname: jupyterlab
     build:
