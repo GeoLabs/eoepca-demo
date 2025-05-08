@@ -11,7 +11,7 @@ jsonschema==4.22.0
 lxml==5.2.2
 matplotlib==3.10.0
 OWSLib==0.32.0
-PyYAML==5.3.1
+PyYAML==6.0.2
 pyjwkest==1.4.2
 pystac-client==0.8.5
 rauth==0.7.3
@@ -21,3 +21,4 @@ WellKnownHandler==0.2.0
 python-keycloak==3.2.0
 rasterio==1.4.1
 PyJWT==2.10.1
+kubernetes==32.0.1
